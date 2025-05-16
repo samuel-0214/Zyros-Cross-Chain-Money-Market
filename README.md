@@ -168,6 +168,6 @@ MIT License. Use freely, attribution appreciated.
 
 ## 🤝 Contact
 
-Built by [@azielmathe](https://twitter.com/azielmathe)
+Built by [@aziel](https://twitter.com/sams_0214)
 
 DMs open for feedback, support, or partnerships!
